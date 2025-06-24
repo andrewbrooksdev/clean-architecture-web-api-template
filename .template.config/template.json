@@ -1,0 +1,13 @@
+{
+  "sourceName": "CleanArchitectureWebApi",
+  "shortName": "cleanarch-api",
+  "name": "Clean Architecture Web API Template",
+  "identity": "CleanArch.Template",
+  "preferNameDirectory": true,
+  "author": "Dale Brooks",
+  "classifications": [ "WebAPI", "Clean Architecture" ],
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
